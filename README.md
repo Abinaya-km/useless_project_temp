@@ -2,11 +2,11 @@
 
 
 
-# [Project Name] 🎯
+#LooPDfy 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+
+### Team Name: Astra
 
 
 ### Team Members
