@@ -2,39 +2,36 @@
 
 
 
-# [Project Name] 🎯
+# LoopPDfy 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Astra
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhiram R - Geck
+- Member 2: Abinaya K M - Geck
+
 
 ### Project Description
-[2-3 lines about what your project does]
+LooPDfy is a deliberately "useless" web app that strips an annoying redirect link out of an uploaded PDF — then sneaks it right back in the moment you download the "cleaned" file, so the loop never actually ends. Along the way, users play a tug-of-war mini-game trying to "pull" the link out for good, only to get pulled back in after 10 tries, making the joke the whole point of the product.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+PDFs everywhere are secretly plotting against readers — silently redirecting them to shady survey sites, rickrolls, and sketchy landlord fine-print pages the moment they're opened. No existing tool has the courage to "fix" this... and then un-fix it anyway, just to keep users humble. LooPDfy solves the problem nobody asked about: the crushing lack of PDFs that betray trust in an infinite, inescapable loop.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+LooPDfy "fixes" the PDF by stripping the sneaky redirect link clean out — genuine relief, for about five seconds. Then, the instant the file gets downloaded, the link sneaks right back in, because a fix that stays fixed isn't funny. For anyone who wants to feel like they're winning, there's even a tug-of-war mini-game: pull hard enough 10 times and the loop still wins anyway. That's the whole app — a solution engineered to solve nothing, on purpose.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python (backend), TypeScript/JavaScript (frontend)
+- FastAPI (backend), React + Vite (frontend)
+- pypdf (backend PDF processing), Tailwind CSS and lucide-react (frontend styling/icons)
+- Render (deployment), Git/GitHub (version control)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -61,24 +58,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -89,9 +68,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abinaya K M: Design and frontend
+- Abhiram R: Backend and integration
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
